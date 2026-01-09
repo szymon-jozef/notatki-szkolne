@@ -1,0 +1,4 @@
+- https://zpe.gov.pl/a/zaokraglanie-liczb-dziesietnych/DQuCorFFY
+- https://www.umiemymatematyke.pl/cwiczenia-zaokraglanie-ulamkow-dziesietnych-6-klasa
+- https://pistacja.tv/film/mat00194-zaokraglanie-liczb-dziesietnych?playlist=299&open=mat00194-1-a-wskaz-zaokraglenie
+- https://pl.khanacademy.org/math/cc-fifth-grade-math/imp-place-value-and-decimals/imp-rounding-decimals/e/rounding_numbers
