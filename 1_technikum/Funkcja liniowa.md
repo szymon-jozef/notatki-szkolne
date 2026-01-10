@@ -1,3 +1,5 @@
 [matemaks](https://www.matemaks.pl/funkcja-liniowa.html)
 [eduelo](https://www.eduelo.pl/quizy/poziom-i-srednia/matematyka/funkcja-liniowa/)
 [szalone liczby](https://szaloneliczby.pl/funkcja-liniowa-sprawdzian-liceum-technikum/)
+[jakieś coś](https://cku1.edu.pl/wp-content/uploads/2021/11/funkcja_liniowa.pdf)
+[pistacja](https://pistacja.tv/wideolekcje/matematyka/szkola-ponadpodstawowa/funkcje/plmat118-funkcja-liniowa)

@@ -1,8 +1,3 @@
 {
-  "vimMode": true,
-  "alwaysUpdateLinks": true,
-  "newFileLocation": "current",
-  "attachmentFolderPath": "media",
-  "newLinkFormat": "relative",
-  "useMarkdownLinks": true
+  "vimMode": true
 }
