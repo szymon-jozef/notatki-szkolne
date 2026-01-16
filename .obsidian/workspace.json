@@ -4,67 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ead9d8d975f1ef54",
+        "id": "d610208418debaf2",
         "type": "tabs",
         "children": [
           {
-            "id": "2cf694808a3d18a0",
+            "id": "9cc9601c2dcc7f2a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6_klasa/6 klasa.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "6 klasa"
-            }
-          },
-          {
-            "id": "9748d5464f93ef1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7_klasa/Figury geometryczne.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Figury geometryczne"
-            }
-          },
-          {
-            "id": "ab0ea0ba413dc0c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6_klasa/6 klasa.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6 klasa"
-            }
-          },
-          {
-            "id": "f7b2b0b9a7ffd830",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_technikum/1 liceum.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1 liceum"
+              "title": "Nowa karta"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,10 +156,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "graph:Otwórz podgląd grafu": false,
+      "daily-notes:Otwórz dzisiejszy dziennik": false,
       "switcher:Otwórz okno szybkiego wyboru": false,
-      "graph:Otwórz graf": false,
       "canvas:Stwórz nową tablicę": false,
-      "daily-notes:Otwórz codzienną notatkę": false,
       "templates:Wstaw szablon": false,
       "command-palette:Otwórz listę poleceń": false,
       "bases:Stwórz nową bazę danych": false,
@@ -214,22 +167,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7b2b0b9a7ffd830",
+  "active": "9cc9601c2dcc7f2a",
   "lastOpenFiles": [
+    "6_klasa/6 klasa.md",
+    "7_klasa/7 klasa.md",
+    "7_klasa/Równania.md",
+    "7_klasa/Wyrażenia algebraiczne.md",
+    "6_klasa/Działania na liczba część 2.md",
+    "6_klasa/zaokrąglanie ułamków dziesiętnych.md",
+    "6_klasa/ułamki okresowe.md",
+    "6_klasa/kolejność wykonywania działań.md",
+    "6_klasa/ułamek liczby.md",
+    "7_klasa/Figury geometryczne.md",
+    "1_technikum/1 liceum.md",
     "1_technikum/Planimetria.md",
     "1_technikum/Funkcja liniowa.md",
-    "1_technikum/1 liceum.md",
-    "7_klasa/Wyrażenia algebraiczne.md",
-    "7_klasa/7 klasa.md",
-    "7_klasa/Figury geometryczne.md",
     "6_klasa/Działania na liczbach.md",
-    "6_klasa/kolejność wykonywania działań.md",
-    "6_klasa/Działania na liczba część 2.md",
-    "6_klasa/ułamek liczby.md",
-    "6_klasa/ułamki okresowe.md",
     "6_klasa/działania pisemne.md",
-    "6_klasa/zaokrąglanie ułamków dziesiętnych.md",
-    "6_klasa/6 klasa.md",
     "6_klasa/Figury płaskie.md",
     "1_technikum/Funkcje.md",
     "6_klasa/Liczby całkowite.md",
@@ -253,7 +207,6 @@
     "Excalidraw/Drawing 2025-11-15 09.11.52.excalidraw.md",
     "Excalidraw",
     "media/Pasted image 20251115085616.png",
-    "media",
-    "1_technikum/Wyrażenia algebraiczne i równania.md"
+    "media"
   ]
 }
