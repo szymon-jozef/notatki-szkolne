@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # planimetria
 - http://zstil.zagan.pl/archiwum/matura/matematyka/planimetria.pdf
 - https://www.medianauka.pl/zadania-planimetria
@@ -8,3 +9,7 @@ https://www.matemaks.pl/twierdzenie-talesa.html
 
 ## dwusieczna
 https://szaloneliczby.pl/twierdzenie-o-dwusiecznej-kata-w-trojkacie/
+=======
+- http://zstil.zagan.pl/archiwum/matura/matematyka/planimetria.pdf
+- 
+>>>>>>> 5d533438b77f1c033188dd69952a4956bd5c86c5
