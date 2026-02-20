@@ -4,6 +4,7 @@
 - [Figury geometryczne](Figury%20geometryczne.md)
 - [Wyrażenia algebraiczne](Wyrażenia%20algebraiczne.md)
 - [[Równania]]
+- [[Potęgi i pierwiastki]]
 
 # Fajne źródła
 [szalone liczby - spis treści](https://szaloneliczby.pl/klasa-7/)

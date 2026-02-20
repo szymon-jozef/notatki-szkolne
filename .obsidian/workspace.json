@@ -11,13 +11,32 @@
             "id": "9cc9601c2dcc7f2a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "7_klasa/7 klasa.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nowa karta"
+              "title": "7 klasa"
+            }
+          },
+          {
+            "id": "cfac944ead4d3f34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_technikum/Planimetria.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Planimetria"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,6 +165,20 @@
               "icon": "lucide-list",
               "title": "Outline of Liczy rzeczywiste"
             }
+          },
+          {
+            "id": "10cfbacaef05002b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Wszystkie atrybuty"
+            }
           }
         ]
       }
@@ -162,29 +195,29 @@
       "canvas:Stwórz nową tablicę": false,
       "templates:Wstaw szablon": false,
       "command-palette:Otwórz listę poleceń": false,
-      "bases:Stwórz nową bazę danych": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Stwórz nową bazę danych": false
     }
   },
-  "active": "9cc9601c2dcc7f2a",
+  "active": "cfac944ead4d3f34",
   "lastOpenFiles": [
+    "1_technikum/1 liceum.md",
+    "1_technikum/Funkcja liniowa.md",
+    "1_technikum/Wyrażenia algebraiczne i równania.md",
+    "6_klasa/Figury płaskie.md",
     "6_klasa/6 klasa.md",
-    "7_klasa/7 klasa.md",
     "7_klasa/Równania.md",
+    "7_klasa/7 klasa.md",
+    "7_klasa/Potęgi i pierwiastki.md",
     "7_klasa/Wyrażenia algebraiczne.md",
+    "6_klasa/Działania na liczbach.md",
     "6_klasa/Działania na liczba część 2.md",
+    "6_klasa/działania pisemne.md",
+    "7_klasa/Figury geometryczne.md",
     "6_klasa/zaokrąglanie ułamków dziesiętnych.md",
     "6_klasa/ułamki okresowe.md",
     "6_klasa/kolejność wykonywania działań.md",
     "6_klasa/ułamek liczby.md",
-    "7_klasa/Figury geometryczne.md",
-    "1_technikum/1 liceum.md",
     "1_technikum/Planimetria.md",
-    "1_technikum/Funkcja liniowa.md",
-    "6_klasa/Działania na liczbach.md",
-    "6_klasa/działania pisemne.md",
-    "6_klasa/Figury płaskie.md",
     "1_technikum/Funkcje.md",
     "6_klasa/Liczby całkowite.md",
     "media/Pasted image 20251122091504.png",
@@ -203,8 +236,6 @@
     "archiwum/5_klasa/Szkoła zaliczenie Kuba.pdf",
     "archiwum/5_klasa/przygotowanie-do-KLASÓWKI-NR-1.pdf",
     "archiwum/5_klasa/e72e9319bcdd0908607e074109727196.pdf",
-    "Excalidraw/Drawing 2025-11-15 09.12.00.excalidraw.md",
-    "Excalidraw/Drawing 2025-11-15 09.11.52.excalidraw.md",
     "Excalidraw",
     "media/Pasted image 20251115085616.png",
     "media"

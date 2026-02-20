@@ -2,3 +2,4 @@
 - https://www.eduelo.pl/quizy/poziom-vii/matematyka/wyrazenia-algebraiczne/
 - https://pistacja.tv/wideolekcje/matematyka/szkola-podstawowa-iv-vi/elementy-algebry/plmat066-wyrazenia-algebraiczne
 - https://wordwall.net/pl-pl/community/matematyka/kl-7-wyra%C5%BCena-algebraiczne
+- https://sp84.edu.gdansk.pl/Content/pub/426/n_zdalne/7-wyrazenia-algebraiczne.pdf
