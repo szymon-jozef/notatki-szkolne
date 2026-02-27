@@ -1,3 +1,7 @@
-- [Szalone liczby](https://szaloneliczby.pl/potegi-i-pierwiastki-sprawdzian-klasa-7/)
+- [Szalone liczby — potęgi](https://szaloneliczby.pl/potegi-sprawdzian-klasa-7/)
+- [Szalone liczby — potęgi i pierwiastki](https://szaloneliczby.pl/potegi-i-pierwiastki-sprawdzian-klasa-7/)
+-  [matzoo](https://matzoo.pl/klasa7/potegowanie-potegi_8_432)
 - [Karta pracy](https://pl-static.z-dn.net/files/d5b/8b65b710a57c1b9dcf131c203f20cce1.pdf)
 - [Inna karta pracy](https://cloud-a.edupage.org/cloud/Praca_klasowa_kl._7_-_Potegi_i_pierwiastki.pdf?z%3AyYqaMUf2kfUqw2xj2ZSi7V1piaGNlOTLJdHoXO3QsS3aHCXUFkFta8EAl73V011E=)
+- [matemaks](https://www.matemaks.pl/potegowanie-i-pierwiastkowanie.html)
+
