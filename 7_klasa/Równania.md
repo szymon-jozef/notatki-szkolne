@@ -3,3 +3,7 @@
 - https://www.eduelo.pl/quizy/poziom-vii/matematyka/rownania/
 - https://wordwall.net/pl-pl/community/r%C3%B3wnania-klasa7
 - https://www.matzoo.pl/klasa7/rozwiazywanie-rownan-zestaw-1_57_370
+
+- [szalone liczby](https://szaloneliczby.pl/rozwiazywanie-rownan-sprawdzian-klasa-7/)
+- [sprawdzian szalone liczby](https://szaloneliczby.pl/rownania-z-jedna-niewiadoma-sprawdzian-klasa-7/)
+- [przeksztalcanie wzorów szalone liczb](https://szaloneliczby.pl/budowanie-rownan-i-przeksztalcanie-wzorow-sprawdzian-klasa-7/)
