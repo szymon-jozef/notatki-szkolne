@@ -1,0 +1,4 @@
+- [Matzoo](https://matzoo.pl/klasa6/rownania-z-jedna-niewiadoma_37_117)
+- [eduelo](https://www.eduelo.pl/quiz/1056/czesc/1/)
+- [jakiś pdf](https://sp15.zgora.pl/wp-content/uploads/2020/03/R%C3%B3wnania-klasa-6a6b.pdf)
+- [wordwall](https://wordwall.net/pl-pl/community/matematyka)
