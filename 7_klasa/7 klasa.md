@@ -5,6 +5,7 @@
 - [Wyrażenia algebraiczne](Wyrażenia%20algebraiczne.md)
 - [[Równania]]
 - [[Potęgi i pierwiastki]]
+- [[e8]]
 
 # Fajne źródła
 [szalone liczby - spis treści](https://szaloneliczby.pl/klasa-7/)

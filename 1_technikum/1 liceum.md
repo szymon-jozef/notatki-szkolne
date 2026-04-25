@@ -6,6 +6,7 @@
 - [Funkcja liniowa](Funkcja%20liniowa)
 - [Planimetria](Planimetria)
 - [[Wzory skróconego mnożenia]]
+- [[okręgi]]
 # Źródła
 [podręcznik](https://flipbook.nowaera.pl/dokumenty/Flipbook/NOWA_MATeMAtyka-Podrecznik_liceum_technikum[kl_1][ZP][pr_2024]/#p=16)
 [eduelo](https://www.eduelo.pl/quizy/poziom-i-srednia/matematyka/)
