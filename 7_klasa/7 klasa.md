@@ -6,6 +6,7 @@
 - [[Równania]]
 - [[Potęgi i pierwiastki]]
 - [[e8]]
+- [[Bryły]]
 
 # Fajne źródła
 [szalone liczby - spis treści](https://szaloneliczby.pl/klasa-7/)

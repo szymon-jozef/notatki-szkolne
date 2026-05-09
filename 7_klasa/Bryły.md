@@ -1,0 +1,8 @@
+- [Sprawdzian – szalone liczby](https://szaloneliczby.pl/bryly-sprawdzian-klasa-7/)
+- [Zestaw miliarda zadań](https://zsp13.wroclaw.pl/szkola67/wp-content/uploads/2020/03/klasa-8-cz.1.pdf)
+- [eduelo](https://www.eduelo.pl/quizy/poziom-vi/matematyka/bryly/)
+- [rozpoznawanie brył](https://szaloneliczby.pl/rozpoznawanie-bryl/)
+- [zpe pole powierzchni](https://zpe.gov.pl/a/pole-powierzchni-graniastoslupa/D1EOWuj1K)
+- [zpe objętość](https://zpe.gov.pl/a/objetosc-prostopadloscianu/D69vUcRhw)
+- [objętość graniastosłupa – 2 zadania](https://opracowania.pl/opracowania/matematyka/objetosc-graniastoslupa,oid,1988)
+- [objętosć graniastosłupa szalone liczby](https://szaloneliczby.pl/objetosc-graniastoslupa/)

@@ -1,0 +1,2 @@
+- [sprawdzian](https://szaloneliczby.pl/bryly-sprawdzian-klasa-6/)
+- 

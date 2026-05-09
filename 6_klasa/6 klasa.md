@@ -4,6 +4,7 @@
 - [[Działania na liczba część 2]]
 - [Figury płaskie](Figury%20płaskie)
 - [[Równania6]]
+- [[figury przestrzenne]]
 # Źródła
 [eduelo](https://www.eduelo.pl/quizy/poziom-vi/matematyka/)
 [szalone liczby](https://szaloneliczby.pl/klasa-6/)
