@@ -1,2 +1,5 @@
 - [sprawdzian](https://szaloneliczby.pl/bryly-sprawdzian-klasa-6/)
-- 
+- [ekierka](https://ekierka.pl/klasa-6/rozpoznawanie-bryl)
+- [matzoo](https://www.matzoo.pl/klasa6/sciany-wierzcholki-krawedzie_34_626)
+- [eduelo](https://www.eduelo.pl/quizy/poziom-vi/matematyka/bryly/)
+- [wzory](https://szaloneliczby.pl/liczba-scian-krawedzi-oraz-wierzcholkow-graniastoslupa/)
