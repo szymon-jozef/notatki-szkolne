@@ -1,0 +1,3 @@
+- [zadania](http://www.szkolaczernica.jgora.net/files/matematyka-kl.6-radze-sobie-coraz-lepiej-klasa-6-karty-pracy.pdf)
+- [eduelo](https://www.eduelo.pl/quizy/poziom-vi/matematyka/matematyka-wokol-nas/tabele-diagramy-i-wykresy/)
+- [karta pracy](https://szkolaedukacja.torun.pl/wp-content/uploads/2020/03/diagramy-i-wykresy.pdf)

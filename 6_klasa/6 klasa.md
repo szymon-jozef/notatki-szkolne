@@ -5,6 +5,7 @@
 - [Figury płaskie](Figury%20płaskie)
 - [[Równania6]]
 - [[figury przestrzenne]]
+- [[tabele]]
 # Źródła
 [eduelo](https://www.eduelo.pl/quizy/poziom-vi/matematyka/)
 [szalone liczby](https://szaloneliczby.pl/klasa-6/)
