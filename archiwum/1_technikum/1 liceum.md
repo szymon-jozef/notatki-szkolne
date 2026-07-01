@@ -3,8 +3,8 @@
 -  [Wyrażenia algebraiczne i równania](Wyrażenia%20algebraiczne%20i%20równania.md)
 - [Układy równań](Układy%20równań.md)
 - [Funkcje](Funkcje.md)
-- [Funkcja liniowa](Funkcja%20liniowa)
-- [Planimetria](Planimetria)
+- [Funkcja liniowa](Funkcja%20liniowa.md)
+- [Planimetria](Planimetria.md)
 - [[Wzory skróconego mnożenia]]
 - [[okręgi]]
 

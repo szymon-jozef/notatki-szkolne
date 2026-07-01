@@ -7,4 +7,4 @@
 - [figury na kartce odpowiedzi](https://cloud1o.edupage.org/cloud?z%3AmpW4OMeLXOGiUPVbn3dIhxJYs%2FpanAKm9Tbr5tcoLJKRrZZatj%2FgIZkY7GKMeck9)
 # Okrąg
 [matemaks](https://www.matemaks.pl/okrag-i-kolo.html)
-![](../media/Pasted%20image%2020251122091504.png)
+![](../../media/Pasted%20image%2020251122091504.png)

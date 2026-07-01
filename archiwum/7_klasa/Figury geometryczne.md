@@ -19,7 +19,7 @@
 - Typy trójkątów
 ## Przystawanie trójkątów
 [źródło](https://szkolamaturzystow.pl/baza-wiedzy/1609691482-przystawanie-trojkatow)
-![](../media/Pasted%20image%2020251115085616.png)
+![](../../media/Pasted%20image%2020251115085616.png)
 ## Czworokąty
 - Typy czworokątów i ich zależności
 ## Wielokąty foremne

@@ -2,7 +2,7 @@
 - [Liczby całkowite](Liczby%20całkowite.md)
 - [Działania na liczbach](Działania%20na%20liczbach.md)
 - [[Działania na liczba część 2]]
-- [Figury płaskie](Figury%20płaskie)
+- [Figury płaskie](Figury%20płaskie.md)
 - [[Równania6]]
 - [[figury przestrzenne]]
 - [[tabele]]
