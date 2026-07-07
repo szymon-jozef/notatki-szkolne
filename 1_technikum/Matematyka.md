@@ -38,6 +38,8 @@ $$
 ![](../media/Pasted%20image%2020260701163704.png)
 
 # Procenty
+- [ ] [zadania z procentów](https://matematycznyswiat.pl/liceum-technikum/liczby-rzeczywiste/procenty/)
+
 # Układy równań
 ## Metoda podstawiania
 ## Metoda przeciwnych współczynników
