@@ -32,6 +32,10 @@ Sumujemy wszystkie pojemności: $C_z = C_1 + C_2 + ... + C_n$
 Sumujemy odwrotności
 $\frac{1}{C_z} = \frac{1}{C_1} + \frac{1}{C_2} + ... +\frac{1}{C_n}$
 # Prawo Ohma
+- [Zadania khan](https://pl.khanacademy.org/science/in-in-class10th-physics/in-in-electricity/in-in-circuits-ohms-law-resistance/e/ohm-s-law-and-resistance)
+- [Zadania pdf](https://www.scribd.com/document/733168184/Prawo-ohma-zadania)
+![](../media/Pasted%20image%2020260720091436.png)
+![](../media/Pasted%20image%2020260720091522.png)
 # Opór elektryczny
 # Pole magnetyczne
 # Indukcja elektromagnetyczna

@@ -39,7 +39,8 @@ $$
 
 # Procenty
 - [ ] [zadania z procentów](https://matematycznyswiat.pl/liceum-technikum/liczby-rzeczywiste/procenty/)
-
+- [sprwadzian szalone liczby](https://szaloneliczby.pl/procenty-sprawdzian-liceum-technikum/)
+- [inne z procentów](https://www.math.edu.pl/zbior-zadan,procenty,0)
 # Układy równań
 ## Metoda podstawiania
 ## Metoda przeciwnych współczynników
