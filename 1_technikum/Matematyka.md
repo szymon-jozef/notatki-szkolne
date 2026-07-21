@@ -42,5 +42,11 @@ $$
 - [sprwadzian szalone liczby](https://szaloneliczby.pl/procenty-sprawdzian-liceum-technikum/)
 - [inne z procentów](https://www.math.edu.pl/zbior-zadan,procenty,0)
 # Układy równań
+[matemaks](https://www.matemaks.pl/co-to-jest-uklad-rownan)
+[zpe](https://zpe.gov.pl/a/rozwiazywanie-ukladow-rownan/DIE2luTE1)
+[szalone liczby sprawdzian](https://szaloneliczby.pl/uklad-rownan-sprawdzian-liceum-technikum/)
+
 ## Metoda podstawiania
+[zpe](https://zpe.gov.pl/a/rozwiazywanie-ukladow-rownan-metoda-podstawiania/D1AAjBjNJ)
 ## Metoda przeciwnych współczynników
+[zpe](https://zpe.gov.pl/a/metoda-przeciwnych-wspolczynnikow-rozwiazywania-ukladow-rownan/DjqR3yBzP)
