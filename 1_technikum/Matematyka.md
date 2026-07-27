@@ -1,8 +1,8 @@
 # Pierwiastki
 ## Zadania
-- [ ] [Matemaks](https://www.matemaks.pl/pierwiastkowanie)
-- [ ] [Podstawy](https://pcpppidn.eu/archiwum/files/publikacje/pierwiastki/karta.pdf)
-- [ ] [Przekształcenia](https://belfer.net.pl/wp-content/uploads/2018/09/Pot%C4%99gi-i-pierwiastki-1.pdf)
+- [Matemaks](https://www.matemaks.pl/pierwiastkowanie)
+- [Podstawy](https://pcpppidn.eu/archiwum/files/publikacje/pierwiastki/karta.pdf)
+- [Przekształcenia](https://belfer.net.pl/wp-content/uploads/2018/09/Pot%C4%99gi-i-pierwiastki-1.pdf)
 ## Wzory
 ### Definicja pierwiastka kwadratowego
 $$
@@ -33,20 +33,33 @@ $$
 \sqrt[5]32 &= 2 \text{, bo } 2^5 = 32
 \end{align}
 $$
-# Własności
+## Własności
 [Wzory maturalne](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Informatory/wybrane_wzory_matematyczne_EM2023.pdf)
 ![](../media/Pasted%20image%2020260701163704.png)
 
 # Procenty
-- [ ] [zadania z procentów](https://matematycznyswiat.pl/liceum-technikum/liczby-rzeczywiste/procenty/)
-- [sprwadzian szalone liczby](https://szaloneliczby.pl/procenty-sprawdzian-liceum-technikum/)
+- [zadania z procentów](https://matematycznyswiat.pl/liceum-technikum/liczby-rzeczywiste/procenty/)
+- [sprawdzian szalone liczby](https://szaloneliczby.pl/procenty-sprawdzian-liceum-technikum/)
 - [inne z procentów](https://www.math.edu.pl/zbior-zadan,procenty,0)
+
+# Wzór skróconego mnożenia
+![](../media/Pasted%20image%2020260727094419.png)
+
+[zadania - matemaks](https://www.matemaks.pl/zadania-ze-wzorow-skroconego-mnozenia)
 # Układy równań
 [matemaks](https://www.matemaks.pl/co-to-jest-uklad-rownan)
 [zpe](https://zpe.gov.pl/a/rozwiazywanie-ukladow-rownan/DIE2luTE1)
 [szalone liczby sprawdzian](https://szaloneliczby.pl/uklad-rownan-sprawdzian-liceum-technikum/)
 
 ## Metoda podstawiania
+Metoda podstawiania polega na wyznaczeniu z jednego równania jednej niewiadomej i podstawieniu jej do drugiego równania
+
 [zpe](https://zpe.gov.pl/a/rozwiazywanie-ukladow-rownan-metoda-podstawiania/D1AAjBjNJ)
+[matemaks](https://www.matemaks.pl/metoda-podstawiania)
 ## Metoda przeciwnych współczynników
+Ta metoda polega na
+- przekształceniu równań do postaci, w której przy tej samej niewiadomej będą miały przeciwne współczynniki liczbowe,
+- następnie dodaniu równań stronami, w wyniku czego otrzymujemy jedno równanie z jedną niewiadomą.
+
 [zpe](https://zpe.gov.pl/a/metoda-przeciwnych-wspolczynnikow-rozwiazywania-ukladow-rownan/DjqR3yBzP)
+[matemaks](https://www.matemaks.pl/metoda-przeciwnych-wspolczynnikow)
