@@ -5,7 +5,7 @@
 ## Istotne wzory:
 $$
 \begin{align}
-C &= \frac{Q}{\Delta V} \\
+C &= \frac{Q}{U} \\
 C &= \frac{\epsilon_0 \cdot S}{d} \\
 Q &= C \cdot U
 \end{align}
