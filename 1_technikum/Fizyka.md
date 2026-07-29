@@ -41,6 +41,7 @@ B) jak zmieni się łądunek, przy dwukrotnym zwiększeniu napięcia
 - [Zadania khan](https://pl.khanacademy.org/science/in-in-class10th-physics/in-in-electricity/in-in-circuits-ohms-law-resistance/e/ohm-s-law-and-resistance)
 - [Zadania pdf](https://www.scribd.com/document/733168184/Prawo-ohma-zadania)
 - [pdf](https://2lo.edu.pl/tasks/Fizyka/1-4_Op%C3%B3rEl_PrawoOhma20221012T223844.pdf)
+- [zadania scribd](https://www.scribd.com/document/801013710/Opor-Elektryczny-Karta-Pracy)
 ![](../media/Pasted%20image%2020260720091436.png)
 ![](../media/Pasted%20image%2020260720091522.png)
 # Opór elektryczny
