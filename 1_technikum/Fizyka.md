@@ -42,6 +42,7 @@ B) jak zmieni się łądunek, przy dwukrotnym zwiększeniu napięcia
 - [Zadania pdf](https://www.scribd.com/document/733168184/Prawo-ohma-zadania)
 - [pdf](https://2lo.edu.pl/tasks/Fizyka/1-4_Op%C3%B3rEl_PrawoOhma20221012T223844.pdf)
 - [zadania scribd](https://www.scribd.com/document/801013710/Opor-Elektryczny-Karta-Pracy)
+- [zadania z łączenia kondensatorów](http://www.voltwo.webd.pl/matura/fizyka/pliki/arkusiki/22-elektrostatyka-czesc_2-kondensatory.pdf)
 ![](../media/Pasted%20image%2020260720091436.png)
 ![](../media/Pasted%20image%2020260720091522.png)
 # Opór elektryczny
@@ -62,6 +63,7 @@ S\  &– \ \text{pole przekroju poprzecznego} \\
 \end{align}
 $$
 [zadania](https://psp8opole.pl/wp-content/uploads/2020/03/zadania-opor-elektryczny.pdf)
+[sporo nieco losowych zadań z oporu](https://www.scribd.com/document/815365812/Zadania-EK-obwody-opo-r-elektryczny)
 
 ---
 Drut wykonany z tego samego materiału ma długość 2m i opór 8 $\Omega$. 
