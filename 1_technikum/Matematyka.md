@@ -50,7 +50,8 @@ $$
 [matemaks](https://www.matemaks.pl/co-to-jest-uklad-rownan)
 [zpe](https://zpe.gov.pl/a/rozwiazywanie-ukladow-rownan/DIE2luTE1)
 [szalone liczby sprawdzian](https://szaloneliczby.pl/uklad-rownan-sprawdzian-liceum-technikum/)
-
+[bardzo dużo układów równań.pdf](https://www.scribd.com/document/527553418/uk%C5%82ady-rowna%C5%84-trening-przed-klasowk%C4%85-1)
+[trochę mniej układów równań.pdf](https://www.scribd.com/document/527553418/uk%C5%82ady-rowna%C5%84-trening-przed-klasowk%C4%85-1)
 ## Metoda podstawiania
 Metoda podstawiania polega na wyznaczeniu z jednego równania jednej niewiadomej i podstawieniu jej do drugiego równania
 
