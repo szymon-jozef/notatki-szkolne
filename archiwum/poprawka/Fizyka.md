@@ -43,8 +43,8 @@ B) jak zmieni się łądunek, przy dwukrotnym zwiększeniu napięcia
 - [pdf](https://2lo.edu.pl/tasks/Fizyka/1-4_Op%C3%B3rEl_PrawoOhma20221012T223844.pdf)
 - [zadania scribd](https://www.scribd.com/document/801013710/Opor-Elektryczny-Karta-Pracy)
 - [zadania z łączenia kondensatorów](http://www.voltwo.webd.pl/matura/fizyka/pliki/arkusiki/22-elektrostatyka-czesc_2-kondensatory.pdf)
-![](../media/Pasted%20image%2020260720091436.png)
-![](../media/Pasted%20image%2020260720091522.png)
+![](../../media/Pasted%20image%2020260720091436.png)
+![](../../media/Pasted%20image%2020260720091522.png)
 # Opór elektryczny
 Wzór na opór elektryczny:
 $$
@@ -70,7 +70,7 @@ Drut wykonany z tego samego materiału ma długość 2m i opór 8 $\Omega$.
 A) opór, gdy długość = 6, a przekrój ten sam
 B) czynniki wpływające na opór przewodnika
 # Pole magnetyczne
-![](../media/Pasted%20image%2020260727092756.png)
+![](../../media/Pasted%20image%2020260727092756.png)
 
 [podsumowanie zpe](https://zpe.gov.pl/a/podsumowanie-wiadomosci-o-magnetyzmie-i-elektromagnetyzmie/D1A06IJSC)
 # Indukcja elektromagnetyczna
@@ -83,7 +83,7 @@ Zjawisko indukcji elektromagnetycznej łączy ze sobą prąd elektrycznym z sił
 ## Cewka
 [dogłębnie wytłumaczone działanie cewki (swoją drogą bardzo polecam ten blog, warto przeczytać)](https://teoriaelektryki.pl/jak-dziala-cewka/)
 
-![](../media/Pasted%20image%2020260726212040.png)
+![](../../media/Pasted%20image%2020260726212040.png)
 *[zdjęcie z wikipedii](https://pl.wikipedia.org/wiki/Cewka)*
 
 Cewka to element elektroniczny zbudowany ze rdzenia wykonanego z materiału [ferromagnetycznego](https://pl.wikipedia.org/wiki/Ferromagnetyzm)(czyli takiego, który jest podatny na siłę magnetyczną) oraz uzwojenia, z najczęściej miedzianego drutu, gęsto owijającego rdzeń. 
@@ -96,8 +96,8 @@ Przykładowe zastosowania:
 - transformatory
 
 # Transformator
-![](../media/Pasted%20image%2020260726214350.png)
-![](../media/Pasted%20image%2020260726214356.png)
+![](../../media/Pasted%20image%2020260726214350.png)
+![](../../media/Pasted%20image%2020260726214356.png)
 [podsumowanie zpe](https://zpe.gov.pl/a/przeczytaj/D1E7eVDre)
 [edukator](https://www.edukator.pl/resources/page/transformator/7713)
 [eszkola (fajne - z przykładem zadania)](https://eszkola.pl/fizyka/transformator-4001.html)
@@ -116,13 +116,13 @@ $$
 p = \frac{I_1}{I_2} = \frac{n_2}{n_1}
 $$
 # Dioda
-![](../media/Pasted%20image%2020260727093004.png)
+![](../../media/Pasted%20image%2020260727093004.png)
 *dioda led*
 
-![](../media/Pasted%20image%2020260727093019.png)
+![](../../media/Pasted%20image%2020260727093019.png)
 *dioda zenera*
 
-![](../media/Pasted%20image%2020260727093138.png)
+![](../../media/Pasted%20image%2020260727093138.png)
 *symbol diody*
 
 Dioda to polaryzowane urzędzenie elektroniczne, które przewodzi prąd tylko w jednym kierunku. Służy za swego rodzaju zawór w obwodzie.

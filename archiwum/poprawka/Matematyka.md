@@ -35,7 +35,7 @@ $$
 $$
 ## Własności
 [Wzory maturalne](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Informatory/wybrane_wzory_matematyczne_EM2023.pdf)
-![](../media/Pasted%20image%2020260701163704.png)
+![](../../media/Pasted%20image%2020260701163704.png)
 
 # Procenty
 - [zadania z procentów](https://matematycznyswiat.pl/liceum-technikum/liczby-rzeczywiste/procenty/)
@@ -43,7 +43,7 @@ $$
 - [inne z procentów](https://www.math.edu.pl/zbior-zadan,procenty,0)
 
 # Wzór skróconego mnożenia
-![](../media/Pasted%20image%2020260727094419.png)
+![](../../media/Pasted%20image%2020260727094419.png)
 
 [zadania - matemaks](https://www.matemaks.pl/zadania-ze-wzorow-skroconego-mnozenia)
 # Układy równań
