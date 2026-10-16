@@ -13,3 +13,10 @@
 [Mnożenie/dzielenie przez 10](https://www.matzoo.pl/klasa6/mnozenie-i-dzielenie-liczb-przez-10-100-i-1000_30_659)
 
 [Dodawanie pisemne ułamków dziesiętnych](https://www.matemaks.pl/dodawanie-i-odejmowanie-ulamkow-dziesietnych)
+
+[eduelo](https://www.eduelo.pl/quizy/poziom-vi/matematyka/)
+# Potęgowanie
+[khan](https://pl.khanacademy.org/math/cc-sixth-grade-math/x0267d782:cc-6th-exponents-and-order-of-operations)
+[ekierka](https://ekierka.pl/klasa-6/potegowanie-liczb)
+[pdf z tłumaczeniem i przykładami](http://strefamatematyczna.uwm.edu.pl/wamat/podstawowe/definicje/def_01_04_001_p.pdf)
+[karta pracy](https://pl-static.z-dn.net/files/dda/382dfe2d5cf8dac8f4fbc0c280853286.pdf)

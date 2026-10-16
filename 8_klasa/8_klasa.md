@@ -7,4 +7,4 @@
 [[Zastosowania matematyki]]
 
 
-[Podręcznik](https://flipbook.apps.gwo.pl/display/2444)
+[Podręcznik](https://flipbook.apps.gwo.pl/display/2444)https://flipbook.apps.gwo.pl/display/2444
