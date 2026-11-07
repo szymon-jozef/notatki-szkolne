@@ -34,6 +34,7 @@
 - trapez róznoramienny ma ramiona jednakowej długości;
 - w trapezie prostokątnym jest co najmniej jeden kąt prosty;
 - w trapezie równoramiennym kąty przy tej samej podstawie mają równe mairy, a przekątne są takiej samej długości;
+
 ### Prostokąt
 - ma wszystkie kąty proste;
 - jego przekątne są takiej samej długości i przecinają się w połowie;
@@ -74,8 +75,16 @@
 [jakaś taka dziwna strona](https://www.umiemymatematyke.pl/cwiczenia-twierdzenie-pitagorasa-zastosowanie-8-klasa)
 
 # Trójkąciki o kątach charakterystycznych
+[wyjaśnienie - szalone liczby](https://szaloneliczby.pl/trojkaty-o-katach-90-45-45-oraz-90-30-60/)
+[wyjaśnienie - wyciągnięcie wzorów](https://opracowania.pl/opracowania/matematyka/trojkaty-o-katach-90-45-45-oraz-90-60-30,oid,1845)
 [Sprawdzian szaloneliczby](https://szaloneliczby.pl/trojkaty-o-katach-90-45-45-oraz-90-30-60-sprawdzian-klasa-8/)
+[zadania - pdf](https://pl-static.z-dn.net/files/d57/87d52e9a5610d7fec04f246da1a6613f.pdf)
 
 # Odcinki w układzie współrzędnych
+[wyjaśnienie - matemaks](https://www.matemaks.pl/dlugosc-odcinka-w-ukladzie-wspolrzednych)
+[zadania - pdf](https://pl-static.z-dn.net/files/da6/64dae1592c82565afa0a1a207f558174.pdf)
+[zadania z ocinków, egzamin 8 klasisty - szalone liczby](https://szaloneliczby.pl/uklad-wspolrzednych-zadania-egzamin-osmoklasisty/)
 
 # Dowodzenie w geometrii
+[jakaś prezentacja o dowodzeniu](https://www.pcdzn.edu.pl/wp-content/uploads/2018/01/dowodzenie.pdf)
+[zadania - matinfuk](https://matinf-uk.pl/2025/02/10/dowodzenie-w-geometrii/)
