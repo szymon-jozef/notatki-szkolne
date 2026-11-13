@@ -81,10 +81,13 @@
 [zadania - pdf](https://pl-static.z-dn.net/files/d57/87d52e9a5610d7fec04f246da1a6613f.pdf)
 
 # Odcinki w układzie współrzędnych
+[układ współrzędnych](https://www.matemaks.pl/uklad-wspolrzednych)
 [wyjaśnienie - matemaks](https://www.matemaks.pl/dlugosc-odcinka-w-ukladzie-wspolrzednych)
 [zadania - pdf](https://pl-static.z-dn.net/files/da6/64dae1592c82565afa0a1a207f558174.pdf)
 [zadania z odcinków, egzamin 8 klasisty - szalone liczby](https://szaloneliczby.pl/uklad-wspolrzednych-zadania-egzamin-osmoklasisty/)
+[pdf](https://sp1stanislawdolny.edu.pl/wp-content/uploads/2020/05/Uk%C5%82ad-wsp%C3%B3%C5%82rz%C4%99dnych-powt%C3%B3rka.pdf)
 
 # Dowodzenie w geometrii
 [jakaś prezentacja o dowodzeniu](https://www.pcdzn.edu.pl/wp-content/uploads/2018/01/dowodzenie.pdf)
 [zadania - matinfuk](https://matinf-uk.pl/2025/02/10/dowodzenie-w-geometrii/)
+[zpe](https://zpe.gov.pl/a/zadania-geometryczne-na-dowodzenie/D1C3A5BIJ)
