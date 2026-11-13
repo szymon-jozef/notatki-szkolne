@@ -83,7 +83,7 @@
 # Odcinki w układzie współrzędnych
 [wyjaśnienie - matemaks](https://www.matemaks.pl/dlugosc-odcinka-w-ukladzie-wspolrzednych)
 [zadania - pdf](https://pl-static.z-dn.net/files/da6/64dae1592c82565afa0a1a207f558174.pdf)
-[zadania z ocinków, egzamin 8 klasisty - szalone liczby](https://szaloneliczby.pl/uklad-wspolrzednych-zadania-egzamin-osmoklasisty/)
+[zadania z odcinków, egzamin 8 klasisty - szalone liczby](https://szaloneliczby.pl/uklad-wspolrzednych-zadania-egzamin-osmoklasisty/)
 
 # Dowodzenie w geometrii
 [jakaś prezentacja o dowodzeniu](https://www.pcdzn.edu.pl/wp-content/uploads/2018/01/dowodzenie.pdf)
