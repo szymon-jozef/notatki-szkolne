@@ -17,6 +17,3 @@
     - [Graniastosłupy i ostrosłupy](8_klasa/matematyka/Graniastosłupy_i_ostrosłupy.md)
     - [Własności liczb naturalnych](8_klasa/matematyka/Własności_liczb_naturalnych.md)
     - [Zastosowania matematyki](8_klasa/matematyka/Zastosowania_matematyki.md)
-- [src]()
-  - [index](src/index.md)
-- [index](index.md)

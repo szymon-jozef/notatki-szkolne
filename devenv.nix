@@ -52,7 +52,7 @@
                     title = entry.name.replace("_", " ")
                     lines.append(f"{indent}- [{title}]()")
                     lines.extend(walk(entry, depth + 1))
-                elif entry.is_file() and entry.suffix == ".md" and entry.name != "SUMMARY.md":
+                elif entry.is_file() and entry.suffix == ".md" and entry.name not in ["SUMMARY.md", "index.md"]:
                     rel_path = entry.relative_to(SRC).as_posix().replace(" ", "%20")
                     title = entry.stem.replace("_", " ")
                     lines.append(f"{indent}- [{title}]({rel_path})")
