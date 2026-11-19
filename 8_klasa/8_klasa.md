@@ -1,3 +1,4 @@
+# Matematyka
 - [Egzaminy e8]]
 - [[Własności liczb naturalnych#system-rzymski]]
 - [[Jednostki#ściąga]]
@@ -5,5 +6,8 @@
 - [[Figury geometryczne na płaszczyźnie#ogólne]]
 - [[Zastosowania matematyki#spis-treści]]
 - [[Graniastosłupy i ostrosłupy#spis-treści]]
+# Inne
+## Fizyka
+- [[Prąd elektryczny#spis-treści]]
 
 [Podręcznik](https://flipbook.apps.gwo.pl/display/2444)
