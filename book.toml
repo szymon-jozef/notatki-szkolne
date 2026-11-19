@@ -1,0 +1,6 @@
+[book]
+title = "Notakti szkolne"
+authors = []
+language = "pl"
+
+[preprocessor.katex]

@@ -1,3 +1,0 @@
-- https://www.matzoo.pl/klasa6/dodawanie-pisemne_30_91
-- https://wordwall.net/pl-pl/community/dzialania-pisemne
-- https://kuratorium.lublin.pl/gsok/fck_files/file/2017/dzialania-pisemne.pdf

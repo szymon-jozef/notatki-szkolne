@@ -1,3 +1,0 @@
-- https://pistacja.tv/film/mat00175-obliczanie-ulamka-danej-liczby
-- https://www.eduelo.pl/quizy/poziom-vi/matematyka/dzialania-na-liczbach/ulamek-liczby/
-- https://www.eduelo.pl/quizy/poziom-vi/matematyka/dzialania-na-liczbach/ulamek-liczby/

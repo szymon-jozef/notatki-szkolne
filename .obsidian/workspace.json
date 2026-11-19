@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "f29d41652a05b7b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "25999ce35d5689c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c862dd46bd21e92",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.1"
+              },
+              "icon": "lucide-book-up",
+              "title": "Informacje o wersji 1.15.1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f6d7d070225e96b",
+    "type": "split",
+    "children": [
+      {
+        "id": "40aa21b2b38b35b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "938d9564dcb8569e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Pliki"
+            }
+          },
+          {
+            "id": "73667d08d9ec27d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Wyszukiwarka"
+            }
+          },
+          {
+            "id": "7bc67af20b8842a5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Ulubione"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "47b9d6bde9601546",
+    "type": "split",
+    "children": [
+      {
+        "id": "57fc92196c269139",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a34e8147f83d97ae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "7_klasa/Potęgi i pierwiastki.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Linki zwrotne do Potęgi i pierwiastki"
+            }
+          },
+          {
+            "id": "995aa60e64fdb2cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "7_klasa/Potęgi i pierwiastki.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Łącza wychodzące od Potęgi i pierwiastki"
+            }
+          },
+          {
+            "id": "f5d21c90851f22a8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tagi"
+            }
+          },
+          {
+            "id": "43801153a4e56233",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "7_klasa/Potęgi i pierwiastki.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Konspekt Potęgi i pierwiastki"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:Otwórz paletę poleceń": false,
+      "switcher:Otwórz okno szybkiego wyboru": false,
+      "graph:Otwórz podgląd grafu": false,
+      "canvas:Stwórz nową tablicę": false,
+      "bases:Stwórz nową bazę danych": false
+    }
+  },
+  "active": "9c862dd46bd21e92",
+  "lastOpenFiles": [
+    "8_klasa/Figury geometryczne na płaszczyźnie.md",
+    "8_klasa/Figury geometryczne na płaszczyźnie.md~",
+    "assets/2026-10-31-12-56-29.png",
+    "assets",
+    "tw.pitagorasa.pdf",
+    "8_klasa/Własności liczb naturalnych.md~",
+    "8_klasa/Egzaminy e8.md",
+    "8_klasa/Własności liczb naturalnych.md",
+    "8_klasa/assets/2026-10-31-12-27-19.png",
+    "8_klasa/assets/2026-10-31-12-27-07.png",
+    "8_klasa/assets",
+    "archiwum/1_technikum/Wyrażenia algebraiczne i równania.md",
+    "8_klasa/8_klasa.md",
+    "8_klasa/tralaa.md",
+    "8_klasa/8_klasa.md~",
+    "klasa_6/Ułamki.md",
+    "klasa_6/Sprawdzian.md",
+    "klasa_6/klasa 6.md",
+    "klasa_6/Figury na płaszczyźnie.md",
+    "8_klasa/Jednostki.md",
+    "8_klasa/Zastosowania matematyki.md",
+    "archiwum/6_klasa/ułamki okresowe.md",
+    "archiwum/6_klasa/ułamek liczby.md",
+    "archiwum/7_klasa/Figury geometryczne.md",
+    "klasa_6",
+    "media/Pasted image 20260926122947.png",
+    "archiwum/poprawka/Matematyka.md",
+    "8_klasa",
+    "Bez nazwy.md",
+    "archiwum/poprawka",
+    "archiwum/poprawka/Fizyka.md",
+    "media/Pasted image 20260727094419.png",
+    "media/Pasted image 20260727093138.png",
+    "media/Pasted image 20260727093019.png",
+    "media/Pasted image 20260727093004.png",
+    "media/Pasted image 20260727092756.png",
+    "media/Pasted image 20260726214356.png",
+    "archiwum/1_technikum/1 liceum.md",
+    "archiwum/7_klasa/e8.md",
+    "1_technikum",
+    "archiwum/7_klasa/7 klasa.md",
+    "archiwum/1_technikum/Wzory skróconego mnożenia.md",
+    "archiwum/1_technikum/Układy równań.md",
+    "archiwum/1_technikum/Planimetria.md",
+    "archiwum/1_technikum/okręgi.md"
+  ]
+}

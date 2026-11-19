@@ -1,3 +1,0 @@
-- https://fizykanaluzie.pl/praca-moc-energia-wzory-i-zadania-przygotuj-sie-na-sprawdzian/
-- https://www.eduelo.pl/quizy/poziom-vii/fizyka/praca-moc-energia/
-- 

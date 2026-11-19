@@ -1,2 +1,0 @@
-- https://pl.khanacademy.org/math/cc-eighth-grade-math/cc-8th-numbers-operations/cc-8th-repeating-decimals/e/writing-fractions-as-repeating-decimals
-- https://www.matzoo.pl/klasa6/rozwiniecia-dziesietne-ulamkow-zwyklych_30_454

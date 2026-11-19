@@ -1,0 +1,22 @@
+# Spis treści
+
+[Stron główna](./src/index.md)
+
+- [6 klasa]()
+  - [Figury na płaszczyźnie](6_klasa/Figury%20na%20płaszczyźnie.md)
+  - [Sprawdzian](6_klasa/Sprawdzian.md)
+  - [Ułamki](6_klasa/Ułamki.md)
+- [8 klasa]()
+  - [fizyka]()
+    - [Prąd elektryczny](8_klasa/fizyka/Prąd%20elektryczny.md)
+  - [matematyka]()
+    - [poboczne]()
+      - [Egzamin](8_klasa/matematyka/poboczne/Egzamin.md)
+      - [Jednostki](8_klasa/matematyka/poboczne/Jednostki.md)
+    - [Figury geometryczne na płaszczyźnie](8_klasa/matematyka/Figury_geometryczne_na_płaszczyźnie.md)
+    - [Graniastosłupy i ostrosłupy](8_klasa/matematyka/Graniastosłupy_i_ostrosłupy.md)
+    - [Własności liczb naturalnych](8_klasa/matematyka/Własności_liczb_naturalnych.md)
+    - [Zastosowania matematyki](8_klasa/matematyka/Zastosowania_matematyki.md)
+- [src]()
+  - [index](src/index.md)
+- [index](index.md)

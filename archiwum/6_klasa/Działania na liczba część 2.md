@@ -1,5 +1,0 @@
-- [[działania pisemne]]
-- [[zaokrąglanie ułamków dziesiętnych]]
-- [[ułamki okresowe]]
-- [[ułamek liczby]]
-- [[kolejność wykonywania działań]]

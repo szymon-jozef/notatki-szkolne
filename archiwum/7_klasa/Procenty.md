@@ -1,6 +1,0 @@
-  - [x] [karta pracy](https://sp19.edu.gdansk.pl/pl/getfile/14897/8498/klasa%207b%20-%20karta%20pracy%20-%20procenty%20-%201.pdf) zostało jedno zadanie :D
-  - [x] [inna karta pracy](https://www.scribd.com/document/499296918/klasa-7-procenty)
-  - [ ] [procent z liczby](https://search.brave.com/search?q=procenty+7+klasa)
-  - [ ] [procenty ogolnie](https://www.eduelo.pl/quizy/poziom-vii/matematyka/procenty/)
-  - [ ] [wordwall](https://wordwall.net/pl-pl/community/klasa-7/matematyka/procenty)
-  - [x] [sprawdzian](https://cloud-6.edupage.org/cloud?z%3AGqPCNMjiobHPSwOZNffcTfEZgY1cKDKbyTBAjtW4g1g%2BVfOYfK1WKXssiteQXBI1)

@@ -1,7 +1,0 @@
-  - [x] [porównywanie liczb](https://www.umiemymatematyke.pl/cwiczenia-liczby-calkowite-7-klasa)
-  - [x] [mnożenie i dzielenie](https://pl.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-mult-div-negatives/e/signs-of-expressions)
-  - [ ] [dodawanie odejmowanie](https://szaloneliczby.pl/dodawanie-i-odejmowanie-liczb-ujemnych/)
-  - [ ] [zaokgrąglanie liczb](https://www.matzoo.pl/klasa7/zaokraglanie-liczb_53_358)
-  - [ ] [test](https://sp5.pila.pl/SP5/wp-content/uploads/TEST-6d.pdf) (na papierze też)
-  - [ ] [inny test](https://gwo.pl/programy/matematyka/exercises.php?kl=SP5&cat=MAT&sub=87)
-  - [ ] [taki inny test](https://sp19.edu.gdansk.pl/pl/getfile/14897/7853/klasa%207%20-%20karta%20pracy%20-%20liczby%20i%20dzia%C5%82ania.pdf) (na papierze też)
