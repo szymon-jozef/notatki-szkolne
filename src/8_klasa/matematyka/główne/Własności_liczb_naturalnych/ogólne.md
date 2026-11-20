@@ -1,0 +1,2 @@
+- [Zadania ogólnie ze wszystkiego](https://www.umiemymatematyke.pl/dzialania-na-liczbach-8-klasa)
+- [Karta pracy ze wszystkiego](https://sp19.edu.gdansk.pl/pl/getfile/14898/7857/klasa%208%20-%20karta%20pracy%20-%20liczby%20i%20dzia%C5%82ania.pdf)

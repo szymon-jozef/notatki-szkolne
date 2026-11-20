@@ -42,7 +42,11 @@
 
             entries = sorted(
                 directory.iterdir(),
-                key=lambda p: (not p.is_dir(), p.name.lower())
+                key=lambda p: (
+                    p.name.lower() != "ogólne.md",
+                    not p.is_dir(),
+                    p.name.lower(),
+                )
             )
 
             for entry in entries:
