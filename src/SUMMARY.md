@@ -1,6 +1,6 @@
 # Spis treści
 
-[Stron główna](./src/index.md)
+[Stron główna](./index.md)
 
 - [6 klasa]()
   - [Figury na płaszczyźnie](6_klasa/Figury%20na%20płaszczyźnie.md)

@@ -59,7 +59,7 @@
 
             return lines
 
-        summary = "# Spis treści\n\n" + "[Stron główna](./src/index.md)\n\n" + "\n".join(walk(SRC)) + "\n"
+        summary = "# Spis treści\n\n" + "[Stron główna](./index.md)\n\n" + "\n".join(walk(SRC)) + "\n"
         (SRC / "SUMMARY.md").write_text(summary, encoding="utf-8")
         print("Done")
       '';
